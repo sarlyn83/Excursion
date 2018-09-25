@@ -30,3 +30,7 @@ h5 {
   text-align: right !important;
   color: gray;
 }
+
+a, a:visited {
+  color: aquamarine;
+}
