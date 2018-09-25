@@ -25,3 +25,8 @@ h4 {
   font-size: 21px;
   color: gray;
 }
+
+h5 {
+  text-align: right !important;
+  color: gray;
+}
